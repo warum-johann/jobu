@@ -1,0 +1,12 @@
+{
+  "name": "jobu",
+  "version": "1.0.0",
+  "description": "The website of Johann Bucher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Johann Bucher",
+  "license": "ISC"
+}
